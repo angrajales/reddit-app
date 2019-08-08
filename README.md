@@ -1,3 +1,7 @@
+# Server
+
+This app was deployed using [now](https://zeit.co/). You can access to this application here: `https://reddit-app.angrajales.now.sh`.
+
 # RedditApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
@@ -25,3 +29,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
